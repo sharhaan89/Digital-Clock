@@ -11,7 +11,7 @@ import java.time.format.DateTimeFormatter;
 
 /**
  *
- * @author User
+ * @author Shaan
  */
 public class DigitalClock extends javax.swing.JFrame {
 
